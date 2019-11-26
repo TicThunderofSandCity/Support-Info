@@ -1,4 +1,4 @@
-# Battles of Shacheng city
+# Glorious Moon Tactok
 
 # Support Infomation
 
@@ -6,15 +6,15 @@
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：BattlesofShachengcity@yeah.net
+Support email ：GloriousMoon actok@yeah.net
 
 
 
 ## About
 
-**Battles of Shacheng city** 
+**Glorious Moon Tactok** 
 
-Battles of Shacheng city Start here and try this simple game.
+Glorious Moon Tactok Start here and try this simple game.
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
