@@ -1,4 +1,4 @@
-# Glorious Moon Tactok
+# Hero Love Elimination X 
 
 # Support Infomation
 
@@ -6,15 +6,17 @@
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：GloriousMoon actok@yeah.net
+Support email ：HeroLoveEliminationX@yeah.net
 
 
 
 ## About
 
-**Glorious Moon Tactok** 
+**Hero Love Elimination X ** 
 
-Glorious Moon Tactok Start here and try this simple game.
+Hero Love Elimination X  Start here and try this simple game.
+
+It is a elimination game that can't be missed!
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
@@ -22,6 +24,9 @@ Each level is a new challenge, with shorter time, more characters, more difficul
 Come challenge yourself and see how many levels you can play.
 
 How about it? Does it sound exciting and interesting? If you are interested, download it now and challenge yourself!
+
+Game features:Cool elimination effect、Wonderful game levels、Stimulating time-limited challenge、Beautiful characters
+
 
 
 ## Privacy Policy
