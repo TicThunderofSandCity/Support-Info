@@ -1,4 +1,4 @@
-# Hero Love Elimination X 
+# Quick Click Hero
 
 # Support Infomation
 
@@ -6,17 +6,19 @@
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：HeroLoveEliminationX@yeah.net
+Support email ：QuickClickHero@yeah.net
 
 
 
 ## About
 
-**Hero Love Elimination X ** 
+**Quick Click Hero ** 
 
-Hero Love Elimination X  Start here and try this simple game.
+Quick Click Hero  Start here and try this simple game.
 
 It is a elimination game that can't be missed!
+
+This is a simple and puzzle elimination game with cute characters and scenes that allow you to enjoy the ultimate relaxation while playing the game!
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
