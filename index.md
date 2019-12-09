@@ -1,4 +1,4 @@
-# Quick Click Hero
+# Harem Story Elimination Tok
 
 # Support Infomation
 
@@ -6,15 +6,15 @@
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：QuickClickHero@yeah.net
+Support email：HaremStoryEliminationTok@yeah.net
 
 
 
 ## About
 
-**Quick Click Hero ** 
+**Harem Story Elimination Tok** 
 
-Quick Click Hero  Start here and try this simple game.
+Harem Story Elimination Tok  Start here and try this simple game.
 
 It is a elimination game that can't be missed!
 
