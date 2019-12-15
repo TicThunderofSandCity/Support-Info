@@ -1,4 +1,4 @@
-# Harem Story Elimination Tok
+# Tic Thunder of SandCity
 
 # Support Infomation
 
@@ -6,15 +6,15 @@
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email：HaremStoryEliminationTok@yeah.net
+Support email：TicThunderofSandCity@yeah.net
 
 
 
 ## About
 
-**Harem Story Elimination Tok** 
+**Tic Thunder of SandCity** 
 
-Harem Story Elimination Tok  Start here and try this simple game.
+Tic Thunder of SandCity Start here and try this simple game.
 
 It is a elimination game that can't be missed!
 
